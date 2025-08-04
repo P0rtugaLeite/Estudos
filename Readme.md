@@ -1,1 +1,0 @@
-Remove Readme.md duplicado
